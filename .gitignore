@@ -27,3 +27,6 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+EvalBoard/#auto_saved_files#
+EvalBoard/~EvalBoard.kicad_pcb.lck
+EvalBoard/~EvalBoard.kicad_sch.lck
